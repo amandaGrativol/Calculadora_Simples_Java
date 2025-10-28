@@ -1,8 +1,8 @@
-# 🧮 Calculadora Java
+# Calculadora Java:
 
-Uma calculadora simples desenvolvida em **Java**, que realiza as quatro operações básicas: soma, subtração, multiplicação e divisão.
+Uma calculadora simples (sem interface gráfica) desenvolvida em **Java**, que realiza as quatro operações básicas: soma, subtração, multiplicação e divisão.
 
-## 🚀 Como executar
+## Como executar:
 
 1. Clone o repositório:
    ```bash
@@ -24,13 +24,12 @@ Uma calculadora simples desenvolvida em **Java**, que realiza as quatro operaç�
    java -cp src calculadora.Main
    ```
 
-## 🧠 Funcionalidades
+## Quais as Funcionalidades?
 
 - Soma (+)
 - Subtração (-)
 - Multiplicação (*)
 - Divisão (/)
+- Scanner
+- Validação dos dados inseridos
 
-## 🧑‍💻 Autora
-**Amanda Grativol**  
-🚀 Engenharia de Software | 💻 Desenvolvimento Back-End | ☕ Java & Python
